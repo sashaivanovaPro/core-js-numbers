@@ -238,7 +238,6 @@ function getCube(num) {
   return num ** 3;
 }
 
-
 /**
  * Returns the Fibonacci number located at the index position.
  *
